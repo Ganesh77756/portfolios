@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import profilePic from '../../img/My-self.jpeg';
+import profilePic from '../../img/Image 4.jpeg';
 
 const About = () => {
     return (
